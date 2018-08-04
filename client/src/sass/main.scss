@@ -1,0 +1,13 @@
+@import 'component/variable';
+@import 'component/card';
+@import 'component/form';
+@import 'component/nav';
+@import 'component/button';
+@import 'component/modal';
+@import 'pages/landing';
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9fb;
+}
